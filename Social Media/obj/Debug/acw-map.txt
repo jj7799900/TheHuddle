@@ -1,0 +1,16 @@
+Social_Media.CreateAccount, Social Media;md5a2a493f3b9411d744fae815837d465d0.CreateAccount
+Social_Media.CreateAccount, Social Media, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a2a493f3b9411d744fae815837d465d0.CreateAccount
+Social_Media.CreateAccount;md5a2a493f3b9411d744fae815837d465d0.CreateAccount
+social_media.CreateAccount;md5a2a493f3b9411d744fae815837d465d0.CreateAccount
+Social_Media.MainActivity, Social Media;md5a2a493f3b9411d744fae815837d465d0.MainActivity
+Social_Media.MainActivity, Social Media, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a2a493f3b9411d744fae815837d465d0.MainActivity
+Social_Media.MainActivity;md5a2a493f3b9411d744fae815837d465d0.MainActivity
+social_media.MainActivity;md5a2a493f3b9411d744fae815837d465d0.MainActivity
+Social_Media.MainMenu, Social Media;md5a2a493f3b9411d744fae815837d465d0.MainMenu
+Social_Media.MainMenu, Social Media, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a2a493f3b9411d744fae815837d465d0.MainMenu
+Social_Media.MainMenu;md5a2a493f3b9411d744fae815837d465d0.MainMenu
+social_media.MainMenu;md5a2a493f3b9411d744fae815837d465d0.MainMenu
+Social_Media.SignInCls, Social Media;md5a2a493f3b9411d744fae815837d465d0.SignInCls
+Social_Media.SignInCls, Social Media, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a2a493f3b9411d744fae815837d465d0.SignInCls
+Social_Media.SignInCls;md5a2a493f3b9411d744fae815837d465d0.SignInCls
+social_media.SignInCls;md5a2a493f3b9411d744fae815837d465d0.SignInCls

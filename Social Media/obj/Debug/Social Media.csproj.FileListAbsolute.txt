@@ -1,0 +1,45 @@
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\Social Media.dll
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\Social Media.pdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\Social_Media.Social_Media.apk
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\Social_Media.Social_Media-Signed.apk
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\Social Media.dll
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\Social Media.pdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\bin\Social_Media.Social_Media.apk
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\layout\signinlayout.xml
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\layout\main.xml
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\values\strings.xml
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\drawable\icon.png
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\drawable\myback.png
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\drawable\gfback.jpg
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\R.cs.flag
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\uploadflags.txt
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\Social Media.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\Java.Interop.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\Mono.Android.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\mscorlib.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\System.Core.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\System.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\System.Xml.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\Social Media.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\System.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\Social Media.csprojResolveAssemblyReference.cache
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\layout\createaccountlayout.xml
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\layout\mainmenulayout.xml
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\res\drawable\fitness.png
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\obj\Debug\Social Media.dll.mdb
+C:\Users\josh\Documents\Visual Studio 2015\Projects\Social Media\Social Media\bin\Debug\Social Media.dll.mdb
